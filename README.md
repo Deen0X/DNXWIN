@@ -15,16 +15,18 @@ With this in mind, i created a "BASE" Windows ISO, where i did "light" tweaks on
 
 So, on the main Windows ISO "BASE", i only applied the Registry level tweaks
 After this, i included some basic software that i consider essential in any windows installation, and this is the list of some of these software:
-- Autowall * -> A small and light software for bring live wallpapers on windows.
+- Autowall \* -> A small and light software for bring live wallpapers on windows.
 - Common Runtimes and frameworks, such VC, .NET, etc.
 - 7-Zip -> For general compressed file management.
 - Notepad++ -> essential tool
 - Google Chrome -> I think is the best choice, but if the user don´t want, simply can uninstall from control panel.
-- Steam * * -> Most popular launcher.
+- Steam \*\* -> Most popular launcher.
 - WizTree -> A small and quick tool for grahpical check disk usage
 
-* Really is not an essential software, but i like the impact of the iso on their first boot and see an animated wallpaper on the desktop. Of course this program can be stoped or removed if don´t like to the final user.
-* * I decided to include Steam because is the most popular library/launcher, and because the program update itself on each launch, so there is no problem really using an "old" version (in case the user is installing this iso on future), because steam always will be up to date.
+>[!NOTE]
+>\* Really is not an essential software, but i like the impact of the iso on their first boot and see an animated wallpaper on the desktop. Of course this program can be stoped or removed if don´t like to the final user.
+>
+>\*\* I decided to include Steam because is the most popular library/launcher, and because the program update itself on each launch, so there is no problem really using an "old" version (in case the user is installing this iso on future), because steam always will be up to date.
 
 There maybe other small programs included on the iso that i will try to keep this list up to date.
 
@@ -41,9 +43,9 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 ### Current BASE edition (GEN) version is 2.1
 
-DNXWIN10_22H2_HOM_GEN_2.1 - Windows 10 22H2 Home edition
+[DNXWIN10_22H2_HOM_GEN_2.1 - Windows 10 22H2 Home edition](https://t.me/PCMasterRacePortable/665291/696189) (Telegram Link)
 
-DNXWIN10_22H2_PRO_GEN_2.1 - Windows 10 22H2 Pro edition
+[DNXWIN10_22H2_PRO_GEN_2.1 - Windows 10 22H2 Pro edition](https://t.me/PCMasterRacePortable/665291/696191) (Telegram Link)
 
 ### GPD-WIN3 Edition
 
@@ -52,4 +54,4 @@ This edition come with all drivers out of the box, and included some preconfigur
 - Motion Assistant
 - Handheld Companion
 
-DNXWIN10HOM_GPDWIN3_EDITION[https://t.me/PCMasterRacePortable/665130/696164](url)
+[DNXWIN10HOM_GPDWIN3_EDITION](https://t.me/PCMasterRacePortable/665130/696164) (Telegram Link)
