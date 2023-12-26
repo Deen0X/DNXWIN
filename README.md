@@ -3,9 +3,13 @@ DNXWIN Project Related
 
 ## What is DNXWIN Project?
 At first instance, i want to create my own version of "Windows Lite/tiny/etc" for use with my gaming devices (GPD WIN, WIN2, WIN3, WIN4, WINMAX, WINMAX2, Steam Deck, etc) that bring me the experience of windows, but without "extra" stuff that i don´t need.
+
 After creating this windows, and testing it, i finally get the conclussion that this is not really what i want on my machines, or at least, not on all my devices.
+
 There are some of them that are low on resources and they need a special windows with minimal services, etc, for bring resources to games. this may be the case of GPD-WIN and GPD-WIN2, but since GPD-WIN3/WINMAX there are enough resources for running games without the need of short services/programs on windows (because these programs or services really will not affect on general performance on gaming, so i decided to get another point of view about the way to install and use windows (and create an iso or it), so i point to optimize windows instead of eliminating services from the oiginal ISO.
+
 With this in mind, i created a "BASE" Windows ISO, where i did "light" tweaks on it. These tweaks are based on my project DNXDOSScript, where i divided these tweaks into two parts.
+
 1- Regitry tweaks focussed on gain performance on a Windows installation.
 2- Script that do more in-deep modifications on windows, disabling or deleting some components, etc.
 
