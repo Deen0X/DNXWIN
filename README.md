@@ -15,16 +15,16 @@ With this in mind, i created a "BASE" Windows ISO, where i did "light" tweaks on
 
 So, on the main Windows ISO "BASE", i only applied the Registry level tweaks
 After this, i included some basic software that i consider essential in any windows installation, and this is the list of some of these software:
-- Autowall +1 -> A small and light software for bring live wallpapers on windows.
+- Autowall * -> A small and light software for bring live wallpapers on windows.
 - Common Runtimes and frameworks, such VC, .NET, etc.
 - 7-Zip -> For general compressed file management.
 - Notepad++ -> essential tool
 - Google Chrome -> I think is the best choice, but if the user don´t want, simply can uninstall from control panel.
-- Steam +2 -> Most popular launcher.
+- Steam * * -> Most popular launcher.
 - WizTree -> A small and quick tool for grahpical check disk usage
 
-+1 Really is not an essential software, but i like the impact of the iso on their first boot and see an animated wallpaper on the desktop. Of course this program can be stoped or removed if don´t like to the final user.
-+2 I decided to include Steam because is the most popular library/launcher, and because the program update itself on each launch, so there is no problem really using an "old" version (in case the user is installing this iso on future), because steam always will be up to date.
+* Really is not an essential software, but i like the impact of the iso on their first boot and see an animated wallpaper on the desktop. Of course this program can be stoped or removed if don´t like to the final user.
+* * I decided to include Steam because is the most popular library/launcher, and because the program update itself on each launch, so there is no problem really using an "old" version (in case the user is installing this iso on future), because steam always will be up to date.
 
 There maybe other small programs included on the iso that i will try to keep this list up to date.
 
