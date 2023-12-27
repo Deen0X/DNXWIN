@@ -1,5 +1,5 @@
 # DNXWIN
-DNXWIN Project Related
+[https://github.com/Deen0X/DNXWIN/blob/main/images/DNXWIN_AVATAR.png](https://github.com/Deen0X/DNXWIN/blob/main/images/DNXWIN_AVATAR.png)
 
 ## What is DNXWIN Project?
 At first instance, i want to create my own version of "Windows Lite/tiny/etc" for use with my gaming devices (GPD WIN, WIN2, WIN3, WIN4, WINMAX, WINMAX2, Steam Deck, etc) that bring me the experience of windows, but without "extra" stuff that i don´t need.
