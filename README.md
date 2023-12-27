@@ -1,5 +1,6 @@
-# DNXWIN
-[https://github.com/Deen0X/DNXWIN/blob/main/images/DNXWIN_AVATAR.png](https://github.com/Deen0X/DNXWIN/blob/main/images/DNXWIN_AVATAR.png)
+# DNXWIN Project
+
+![DNXWIN_AVATAR_c](https://github.com/Deen0X/DNXWIN/assets/3720302/3a44af6d-6a55-4b2e-85b6-9e823f769ca2)
 
 ## What is DNXWIN Project?
 At first instance, i want to create my own version of "Windows Lite/tiny/etc" for use with my gaming devices (GPD WIN, WIN2, WIN3, WIN4, WINMAX, WINMAX2, Steam Deck, etc) that bring me the experience of windows, but without "extra" stuff that i don´t need.
@@ -49,9 +50,21 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 ### GPD-WIN3 Edition
 
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/a1e20838-fe8d-426e-bf15-01b6d70d5d6b)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/df99c837-4e0f-4edd-8be7-e379e32458e3)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/cb15e500-821a-488d-ae2e-ccbbf09e223c)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/983a5d69-13d7-4e88-8e53-6000374ed8ce)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 This edition come with all drivers out of the box, and included some preconfigured software:
 
 - Motion Assistant
 - Handheld Companion
+
+User need to configure the back buttons of the device, for use the pre-configured key combination of Motion Assistant and/or Handheld Companion
+
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/1cc8c1a8-15f0-4ec6-a6aa-2321e38ddf1b)
+
 
 [DNXWIN10HOM_GPDWIN3_EDITION](https://t.me/PCMasterRacePortable/665130/696164) (Telegram Link)
