@@ -44,17 +44,16 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 ### Current BASE edition (GEN) version is 2.1
 
-[DNXWIN10_22H2_HOM_GEN_2.1 - Windows 10 22H2 Home edition](https://t.me/PCMasterRacePortable/665291/696189) (Telegram Link)
-
-[DNXWIN10_22H2_PRO_GEN_2.1 - Windows 10 22H2 Pro edition](https://t.me/PCMasterRacePortable/665291/696191) (Telegram Link)
-
-### GPD-WIN3 Edition
-
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/a1e20838-fe8d-426e-bf15-01b6d70d5d6b)
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/df99c837-4e0f-4edd-8be7-e379e32458e3)
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/cb15e500-821a-488d-ae2e-ccbbf09e223c)
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/983a5d69-13d7-4e88-8e53-6000374ed8ce)
 
+[DNXWIN10_22H2_HOM_GEN_2.1 - Windows 10 22H2 Home edition <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665291/696189)
+
+[DNXWIN10_22H2_PRO_GEN_2.1 - Windows 10 22H2 Pro edition <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665291/696191)
+
+### GPD-WIN3 Edition
 
 This edition come with all drivers out of the box, and included some preconfigured software:
 
@@ -66,4 +65,4 @@ User need to configure the back buttons of the device, for use the pre-configure
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/1cc8c1a8-15f0-4ec6-a6aa-2321e38ddf1b)
 
 
-[DNXWIN10HOM_GPDWIN3_EDITION](https://t.me/PCMasterRacePortable/665130/696164) (Telegram Link)
+[DNXWIN10HOM_GPDWIN3_EDITION <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665130/696164)
