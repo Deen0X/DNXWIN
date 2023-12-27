@@ -55,7 +55,6 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/cb15e500-821a-488d-ae2e-ccbbf09e223c)
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/983a5d69-13d7-4e88-8e53-6000374ed8ce)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 This edition come with all drivers out of the box, and included some preconfigured software:
 
