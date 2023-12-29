@@ -37,3 +37,5 @@ This BASE Project is called DNXWIN10 and come in two versions: PRO and HOME
 ## EDITIONS
 Note that all editions will be uploaded to Telegram, because is the best way i found to share this project without worry about bandwith limit.
 
+[BASE/GENERIC Edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) -> for any device. Not drivers or software specific included.
+[GPD-WIN3](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN3)
