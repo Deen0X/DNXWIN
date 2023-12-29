@@ -38,7 +38,7 @@ This BASE Project is called DNXWIN10 and come in two versions: PRO and HOME
 
 The iso come with [Extra Software](https://github.com/Deen0X/DNXExtraSoftware) Project.
 
-This project born from previous versions of DNXISO Project, where i included some useful stuff but not necessary all users will use. So i decided to "externalize" some parts, and allow to users to install "on demand".
+This project born from previous versions of DNXWIN versions, where i included some useful stuff but not necessary all users will use. So i decided to "externalize" some parts, and allow to users to install "on demand".
 
 The best example of this is the WSA (Windows Subsystem for Android), that adds near to 2GB extra size to the ISO, and even if the project is so interesting and useful (running android applications as native windows apps), not all users will use it really, so i create a way to easy install this with a simple click, that will download the project from their original repository on github, and install on the system (enabling needed components for running it)
 
