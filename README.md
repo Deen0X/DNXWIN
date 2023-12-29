@@ -34,11 +34,6 @@ There maybe other small programs included on the iso that i will try to keep thi
 With the previous configuration of essential software, light tweaked iso and optimization (using the reg) i generated a BASE ISO for the main project. This ISO can be used on any computer for installing windows, but user will need to install their own drivers.
 This BASE Project is called DNXWIN10 and come in two versions: PRO and HOME
 
-## Why generating two version?
-Simple. Most windows gaming devices such GPD devices, AYA, etc, come with HOME version from factory. This is related to Windows licences with manufacturers, and for this reason most of them uses this kind of licences. So, for these devices that come with a OEM licence activated on their devices, so for this reason i process a HOME version for allow users to keep their licence on the new windows.
-After some requests i decided to process a PRO version for machines that don´t come with windows, such Steam Deck, so users can activate it with their own PRO licence on the device.
-Essentially both windows come with the same software and pre-configured stuff. Simply windows PRO may bring few features that Home don´t have (Remote Desktop Protocol RDP, but there are a lot of alternatives such Chrome Remote Desktop. Group Policy Editor GPEDIT, but you can get an alternative for Windows Home included on Extra Software menu, included too on the ISO)D
-
 ## EDITIONS
 Note that all editions will be uploaded to Telegram, because is the best way i found to share this project without worry about bandwith limit.
 
