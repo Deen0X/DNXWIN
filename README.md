@@ -34,6 +34,21 @@ There maybe other small programs included on the iso that i will try to keep thi
 With the previous configuration of essential software, light tweaked iso and optimization (using the reg) i generated a BASE ISO for the main project. This ISO can be used on any computer for installing windows, but user will need to install their own drivers.
 This BASE Project is called DNXWIN10 and come in two versions: PRO and HOME
 
+## Extra Software Project
+
+The iso come with [Extra Software](https://github.com/Deen0X/DNXExtraSoftware) Project.
+
+This project born from previous versions of DNXISO Project, where i included some useful stuff but not necessary all users will use. So i decided to "externalize" some parts, and allow to users to install "on demand".
+
+The best example of this is the WSA (Windows Subsystem for Android), that adds near to 2GB extra size to the ISO, and even if the project is so interesting and useful (running android applications as native windows apps), not all users will use it really, so i create a way to easy install this with a simple click, that will download the project from their original repository on github, and install on the system (enabling needed components for running it)
+
+So, taking this as a base idea, i generated a complete menu for more software with the same philosophy. Download from original source (when possible) and install on the system. This way i'm not including the software on the ISO and allow to user to install what want on their windows system.
+
+## DNXRAMDrive Project
+
+The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Project included. This script basically will launch if the ISO is installed as Windows To Go (Win2Go) on a MicroSD or external drive. It will check the write speed of the system (the first time the system runs) and, depending on the media speed, configure a RAMDrive for use on the system, and point the TEMP directories there, and CACHE forlders from Chrome and Edge. With this the system gain in performance because avoid to write on the slow media, but at cost of less ram available.
+
+
 ## EDITIONS
 Note that all editions will be uploaded to Telegram, because is the best way i found to share this project without worry about bandwith limit.
 
