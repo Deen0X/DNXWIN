@@ -30,3 +30,6 @@ Specific software for the device:
 
 ![Screenshot (4)](https://github.com/Deen0X/DNXWIN/assets/3720302/332b719b-0f63-4ddb-af27-6923fc193261)
 
+## DOWNLOAD LINK
+
+[DNXWIN10HOM_GPDWIN2_EDITION <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665114/697688)
