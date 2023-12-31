@@ -1,4 +1,4 @@
-# GPD-WIN3 Edition
+# DNXWIN10 GPD-WIN3 Edition
 
 This edition come with all drivers out of the box, and included some preconfigured software:
 
