@@ -54,4 +54,6 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 * [BASE/GENERIC Edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) -> for any device. Not drivers or software specific included.
 
+* [GPD-WIN2](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN2)
+
 * [GPD-WIN3](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN3)
