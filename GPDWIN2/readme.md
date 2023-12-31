@@ -11,7 +11,7 @@ Specific software for the device:
 - Removed Microsoft Defender
 - Device Drivers
 - Old Display Panel
-- Included Custom Resolutions (960x544, 800x448, 640x360)
+- Included Custom Resolutions (960x544, 800x448, 640x360). Added icons for 960x544 and 1280x720 to the desktop for quick resolution change.
 - Motion Assistant - Preconfigured Shortcut Keys for most functionallity.
 - Handheld Companion - Not all shortcuts are preconfigured. This must need some tweak and bring in future release (or via online update)
 - Overlay Intel. This is the script from [ciphray.bat and Chewk.overlay](https://discord.com/channels/243411108940087297/826965330965430272/832688561277894686)
