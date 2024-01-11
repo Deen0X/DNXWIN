@@ -1,6 +1,6 @@
 # Current BASE edition (GEN) version is 2.1
 
-![image](https://github.com/Deen0X/DNXWIN/assets/3720302/61ee1351-efbe-42a8-b0ab-c017c64c4e96)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/483cac8c-1831-4744-87fe-d44ea81dc7b8)
 
 There are two versions: HOME and PRO.
 
