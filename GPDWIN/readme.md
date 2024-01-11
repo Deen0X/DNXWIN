@@ -1,6 +1,6 @@
 # DNXWIN10 GPD-WIN Edition
 
-![image](https://github.com/Deen0X/DNXWIN/assets/3720302/db0e6ef1-5022-4988-bf13-5361f1504eee)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/38e0d5c1-91ec-4fb8-b291-75380dc523eb)
 
 This edition is based on [DNXWIN10 HOME GEN edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) and get specific customized for the GPD-WIN device
 
