@@ -12,6 +12,7 @@ There are some of them that are low on resources and they need a special windows
 With this in mind, i created a "BASE" Windows ISO, where i did "light" tweaks on it. These tweaks are based on my project [DNXDOSScript](https://github.com/Deen0X/DNXDOScript), where i divided these tweaks into two parts.
 
 1- Regitry tweaks focussed on gain performance on a Windows installation.
+
 2- Script that do more in-deep modifications on windows, disabling or deleting some components, etc.
 
 So, on the main Windows ISO "BASE", i only applied the Registry level tweaks
