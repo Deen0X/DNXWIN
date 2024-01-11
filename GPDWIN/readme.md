@@ -1,5 +1,7 @@
 # DNXWIN10 GPD-WIN Edition
 
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/db0e6ef1-5022-4988-bf13-5361f1504eee)
+
 This edition is based on [DNXWIN10 HOME GEN edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) and get specific customized for the GPD-WIN device
 
 The most important difference is removed Microsoft Defender Antivirus. Due this device is focused to play, and their resources are not high, i decided to remove Antivirus for gain performance.
