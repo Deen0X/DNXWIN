@@ -52,8 +52,10 @@ The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Proje
 ## EDITIONS
 Note that all editions will be uploaded to Telegram, because is the best way i found to share this project without worry about bandwith limit.
 
-* [BASE/GENERIC Edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) -> for any device. Not drivers or software specific included.
+* [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/483cac8c-1831-4744-87fe-d44ea81dc7b8) BASE/GENERIC Edition](https://github.com/Deen0X/DNXWIN/tree/main/BASE_GEN_EDITION) -> for any device. Not drivers or software specific included.
 
-* [GPD-WIN2](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN2)
+* [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/38e0d5c1-91ec-4fb8-b291-75380dc523eb) GPD-WIN](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN)
 
-* [GPD-WIN3](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN3)
+* [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/c295a2ee-4f85-4923-9e28-0f4252460baa) GPD-WIN2](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN2)
+
+* [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/336ad51a-0595-4d9a-be44-0aa305af0d53) GPD-WIN3](https://github.com/Deen0X/DNXWIN/tree/main/GPDWIN3)
