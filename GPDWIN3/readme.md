@@ -1,9 +1,20 @@
 # DNXWIN10 GPD-WIN3 Edition
 
-This edition come with all drivers out of the box, and included some preconfigured software:
+This edition is based on DNXWIN10 HOME GEN edition and get specific customized for the GPD-WIN2 device
 
-- Motion Assistant
-- Handheld Companion
+The most important difference is removed Microsoft Defender Antivirus. Due this device is focused to play, and their resources are not high, i decided to remove Antivirus for gain performance.
+
+User still can install an antivirus if prefer.
+
+Specific software for the device:
+
+- Device Drivers
+- Included Custom Resolutions (960x544, 800x448, 640x360). Added icons for 960x544 and 1280x720 to the desktop for quick resolution change.
+- Motion Assistant - Preconfigured Shortcut Keys for most functionallity.
+- Handheld Companion - Not all shortcuts are preconfigured. This must need some tweak and bring in future release (or via online update)
+- Overlay Intel. This is the script from ciphray.bat and Chewk.overlay
+- DNXDOScript for tweaks and performance
+- Included Extra Software Script
 
 >[!NOTE]
 >User need to configure the back buttons of the device, for use the pre-configured key combination of Motion Assistant and/or Handheld Companion
