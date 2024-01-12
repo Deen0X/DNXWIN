@@ -5,8 +5,10 @@
 There are two versions: HOME and PRO.
 
 ## Why generating two version?
-Simple. Most windows gaming devices such GPD devices, AYA, etc, come with HOME version from factory. This is related to Windows licences with manufacturers, and for this reason most of them uses this kind of licences. So, for these devices that come with a OEM licence activated on their devices, so for this reason i process a HOME version for allow users to keep their licence on the new windows.
+Simple. Most windows gaming devices such GPD devices, AYA, etc, come with HOME version from factory. This is related to Windows licences with manufacturers, and for this reason most of them uses this kind of licences. So, for these devices that come with a OEM licence activated on their devices, I generated the HOME version for allow users to keep their licence on the new windows.
+
 After some requests i decided to process a PRO version for machines that don´t come with windows, such Steam Deck, so users can activate it with their own PRO licence on the device.
+
 Essentially both windows come with the same software and pre-configured stuff. Simply windows PRO may bring few features that Home don´t have (Remote Desktop Protocol RDP, but there are a lot of alternatives such Chrome Remote Desktop. Group Policy Editor GPEDIT, but you can get an alternative for Windows Home included on Extra Software menu, included too on the ISO)D
 
 
