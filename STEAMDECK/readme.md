@@ -19,6 +19,14 @@ Specific software for the device:
 
 ![image](https://github.com/Deen0X/DNXWIN/assets/3720302/0145f6a3-c7b7-4d2d-b742-61be9ee26baf)
 
+## SCREENSHOTS
+
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/32552ab0-1571-4657-83d0-413f78309266)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/cb4f379d-c9e3-46e3-9cf5-06c661eae7cd)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/2385b196-582b-455c-a7ac-af189eae1e83)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/fb7108d2-252e-4fa2-b02c-7264d815cc0f)
+![image](https://github.com/Deen0X/DNXWIN/assets/3720302/2986d5a6-c1c9-4f0e-b1cf-e33907693b2f)
+
 
 ## DOWNLOAD LINK
 
