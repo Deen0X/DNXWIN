@@ -26,4 +26,4 @@ Specific software for the device:
 
 ## DOWNLOAD LINK
 
-[DNXWIN10HOM_GPDWIN3_EDITION <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665130/696164)
+[DNXWIN10HOM_GPDWIN3_EDITION <img src="https://github.com/Deen0X/DNXWIN/assets/3720302/83d20043-648a-474f-800b-bf1d0be06424" width="24">](https://t.me/PCMasterRacePortable/665130/696157)
