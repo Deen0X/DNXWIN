@@ -1,7 +1,6 @@
 # DNXWIN10 GPD-WINMAX Edition
 
-![image](https://github.com/user-attachments/assets/55eaef37-f99b-46d3-a7e7-aa387a56b1fb)
-
+![image](https://github.com/user-attachments/assets/9611e207-66f7-43f6-b139-66f195081065)
 
 This edition is based on DNXWIN10 HOME GEN edition and get specific customized for the GPD-WINMAX Intel device
 
