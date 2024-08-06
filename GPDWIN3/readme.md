@@ -4,10 +4,6 @@
 
 This edition is based on DNXWIN10 HOME GEN edition and get specific customized for the GPD-WIN2 device
 
-The most important difference is removed Microsoft Defender Antivirus. Due this device is focused to play, and their resources are not high, i decided to remove Antivirus for gain performance.
-
-User still can install an antivirus if prefer.
-
 Specific software for the device:
 
 - Device Drivers
