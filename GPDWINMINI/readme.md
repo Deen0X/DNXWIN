@@ -17,7 +17,7 @@ Specific software for the device:
 
 ![WinControlsConfig](https://github.com/user-attachments/assets/76506d64-478c-48bc-b7b6-eab068fc88d3)
 
-Some Screenshots
+## Some Screenshots
 
 ![image](https://github.com/user-attachments/assets/4c00f8be-8550-42ad-a8c3-d924de86f535)
 
