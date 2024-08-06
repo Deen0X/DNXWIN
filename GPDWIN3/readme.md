@@ -1,6 +1,6 @@
 # DNXWIN10 GPD-WIN3 Edition
 
-![image](https://github.com/Deen0X/DNXWIN/assets/3720302/336ad51a-0595-4d9a-be44-0aa305af0d53)
+![image](https://github.com/user-attachments/assets/4d8098d4-2060-4339-94f4-ea7cfb5ce0a2)
 
 This edition is based on DNXWIN10 HOME GEN edition and get specific customized for the GPD-WIN2 device
 
