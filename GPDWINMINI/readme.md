@@ -19,6 +19,8 @@ Specific software for the device:
 
 ## Some Screenshots
 
+![image](https://github.com/user-attachments/assets/a28cad0d-48e6-4fcd-b011-1ac233e2d759)
+
 ![image](https://github.com/user-attachments/assets/4c00f8be-8550-42ad-a8c3-d924de86f535)
 
 ![image](https://github.com/user-attachments/assets/71df9541-1d7f-4472-9671-18329da3cb17)
@@ -26,8 +28,6 @@ Specific software for the device:
 ![image](https://github.com/user-attachments/assets/a00166c1-3705-4ba2-a717-d85238cf6ed6)
 
 ![image](https://github.com/user-attachments/assets/49468cc1-e881-413a-ae33-2dd17c7cf19e)
-
-![image](https://github.com/user-attachments/assets/a28cad0d-48e6-4fcd-b011-1ac233e2d759)
 
 
 ## DOWNLOAD LINK
