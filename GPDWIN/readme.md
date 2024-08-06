@@ -1,6 +1,5 @@
 # DNXWIN10 GPD-WIN Edition
 
-![image](https://github.com/Deen0X/DNXWIN/assets/3720302/38e0d5c1-91ec-4fb8-b291-75380dc523eb)
 ![image](https://github.com/user-attachments/assets/9ff068d6-d1d1-47fe-b720-16ce0b2298c9)
 
 
