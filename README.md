@@ -63,4 +63,6 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 * [![image](https://github.com/user-attachments/assets/6b24fd06-e331-44dd-81f8-fb297cd98c2b) GPD-WINMINI](https://github.com/Deen0X/DNXWIN/tree/main/GPDWINMINI)
 
+* [![image](https://github.com/user-attachments/assets/55eaef37-f99b-46d3-a7e7-aa387a56b1fb) GPD-WINMAX](https://github.com/Deen0X/DNXWIN/tree/main/GPDWINMAX)
+
 * [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/385ed081-feee-497f-ab5a-cea44dfdc4e3) STEAM DECK](https://github.com/Deen0X/DNXWIN/tree/main/STEAMDECK)
