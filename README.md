@@ -63,3 +63,4 @@ Note that all editions will be uploaded to Telegram, because is the best way i f
 
 * [![image](https://github.com/Deen0X/DNXWIN/assets/3720302/385ed081-feee-497f-ab5a-cea44dfdc4e3) STEAM DECK](https://github.com/Deen0X/DNXWIN/tree/main/STEAMDECK)
 
+* [![image](https://github.com/user-attachments/assets/6b24fd06-e331-44dd-81f8-fb297cd98c2b) GPD-WINMINI](https://github.com/Deen0X/DNXWIN/tree/main/STEAMDECK)
