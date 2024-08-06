@@ -1,6 +1,6 @@
 # DNXWIN10 GPD-WINMINI Edition
 
-![image](https://github.com/user-attachments/assets/6b24fd06-e331-44dd-81f8-fb297cd98c2b)
+![image](https://github.com/user-attachments/assets/5b835844-78f3-4d72-b006-27dff76ea86d)
 
 This edition is based on DNXWIN10 HOME GEN edition and get specific customized for the GPD-WINMINI device
 
