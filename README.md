@@ -51,7 +51,7 @@ The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Proje
 
 ## AMD/Intel OSD Overlay
 
-This project allow to show information about FPS, temp, power, etc. The project is original from Brother Chenwk and you can find on GPD_Devices discord Channel(https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472).
+This project allow to show information about FPS, temp, power, etc. The project is original from Brother Chenwk and you can find on [GPD_Devices discord Channel](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472).
 
 
 ## EDITIONS
