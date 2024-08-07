@@ -54,8 +54,11 @@ The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Proje
 
 This project allow to show information about FPS, temp, power, etc. The project is original from Brother Chenwk and you can find on [GPD_Devices discord Channel](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472).
 For general use, hotkeys are as follows:-
+
 CTRL+SHIFT+F7 - toggles on/off OSD 
+
 CTRL+SHIFT+F8/F9/F10/F11 - loads overlays respectively for resolutions using 1280x.../1600 (or 1680)x.../1920x.../2560x1600
+
 Load game and see how it is (By default you will see on Live Wallpaper on Windows).
 
 
