@@ -27,6 +27,7 @@ After this, i included some basic software that i consider essential in any wind
 
 >[!NOTE]
 >\* Really is not an essential software, but i like the impact of the iso on their first boot and see an animated wallpaper on the desktop. Of course this program can be stoped or removed if don´t like to the final user.
+For Stop/Unload the default Live Wallpaper, go to Start - _DNXSoftware - AutoWall Stop
 >
 >\*\* I decided to include Steam because is the most popular library/launcher, and because the program update itself on each launch, so there is no problem really using an "old" version (in case the user is installing this iso on future), because steam always will be up to date.
 
@@ -52,6 +53,11 @@ The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Proje
 ## AMD/Intel OSD Overlay
 
 This project allow to show information about FPS, temp, power, etc. The project is original from Brother Chenwk and you can find on [GPD_Devices discord Channel](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472).
+For general use, hotkeys are as follows:-
+CTRL+SHIFT+F7 - toggles on/off OSD 
+CTRL+SHIFT+F8/F9/F10/F11 - loads overlays respectively for resolutions using 1280x.../1600 (or 1680)x.../1920x.../2560x1600
+Load game and see how it is (By default you will see on Live Wallpaper on Windows).
+
 
 
 ## EDITIONS
