@@ -49,6 +49,10 @@ So, taking this as a base idea, i generated a complete menu for more software wi
 
 The ISO come with the [DNXRAMDRive](https://github.com/Deen0X/DNXRamDrive) Project included. This script basically will launch if the ISO is installed as Windows To Go (Win2Go) on a MicroSD or external drive. It will check the write speed of the system (the first time the system runs) and, depending on the media speed, configure a RAMDrive for use on the system, and point the TEMP directories there, and CACHE forlders from Chrome and Edge. With this the system gain in performance because avoid to write on the slow media, but at cost of less ram available.
 
+## AMD/Intel OSD Overlay
+
+This project allow to show information about FPS, temp, power, etc. The project is original from Brother Chenwk and you can find on GPD_Devices discord Channel(https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472).
+
 
 ## EDITIONS
 Note that all editions will be uploaded to Telegram, because is the best way i found to share this project without worry about bandwith limit.
